@@ -1,0 +1,98 @@
+[
+    {
+        "note": "G#/Ab",
+        "lyrics": "I",
+        "beats": [
+            0,
+            1.5
+        ]
+    },
+    {
+        "note": "F#/Gb",
+        "lyrics": "was",
+        "beats": [
+            1.5,
+            2
+        ]
+    },
+    {
+        "note": "E",
+        "lyrics": "fol-",
+        "beats": [
+            2,
+            2.5
+        ]
+    },
+    {
+        "note": "E",
+        "lyrics": "-low-",
+        "beats": [
+            2.5,
+            3
+        ]
+    },
+    {
+        "note": "F#/Gb",
+        "lyrics": "-ing",
+        "beats": [
+            3,
+            3.5
+        ]
+    },
+    {
+        "note": "F#/Gb",
+        "lyrics": "the",
+        "beats": [
+            3.5,
+            4
+        ]
+    },
+    {
+        "note": "G#/Ab",
+        "lyrics": "I",
+        "beats": [
+            4,
+            5.5
+        ]
+    },
+    {
+        "note": "F#/Gb",
+        "lyrics": "was",
+        "beats": [
+            5.5,
+            6
+        ]
+    },
+    {
+        "note": "E",
+        "lyrics": "fol-",
+        "beats": [
+            6,
+            6.5
+        ]
+    },
+    {
+        "note": "E",
+        "lyrics": "-low-",
+        "beats": [
+            6.5,
+            7
+        ]
+    },
+    {
+        "note": "F#/Gb",
+        "lyrics": "-ing",
+        "beats": [
+            7,
+            7.5
+        ]
+    },
+    {
+        "note": "F#/Gb",
+        "lyrics": "the",
+        "beats": [
+            7.5,
+            8
+        ]
+    }
+]

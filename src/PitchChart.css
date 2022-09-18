@@ -1,0 +1,29 @@
+#pitch-chart {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1600px;
+    padding: 0 10% 4rem 10%;
+}
+
+#start-button {
+    font-size: 2rem;
+    line-height: 1;
+    box-sizing: content-box;
+    /*width: 2rem;*/
+    /*height: 2rem;*/
+    margin: 1rem 0;
+    padding: 0;
+    border-color: transparent;
+    border-radius: 25%;
+    background-color: transparent;
+}
+#start-button:active {
+    box-shadow: 0 0 0.2px rgba(0, 0, 0, 0.211), 0 0 0.4px rgba(0, 0, 0, 0.31),
+    0 0 0.6px rgba(0, 0, 0, 0.383), 0 0 1px rgba(0, 0, 0, 0.444), 0 0 1.4px rgba(0, 0, 0, 0.5),
+    0 0 1.9px rgba(0, 0, 0, 0.556), 0 0 2.8px rgba(0, 0, 0, 0.617), 0 0 4px rgba(0, 0, 0, 0.69),
+    0 0 6.2px rgba(0, 0, 0, 0.789), 0 0 11px rgba(0, 0, 0, 1);
+}
+
+#start-button:hover {
+    cursor: pointer;
+}
